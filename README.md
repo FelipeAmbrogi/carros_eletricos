@@ -14,7 +14,7 @@ Sobre os Dados:
 
 - ETL feito em alteryx
 
-![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/d7ad0504-9558-4c07-a0f7-969b8343054c)
+![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/c8d0eb84-2f21-4832-9b4b-6eba2d4f468f)
 
 - Dashboard criado em PowerBi
   
