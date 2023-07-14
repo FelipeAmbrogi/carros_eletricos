@@ -8,9 +8,17 @@ Sobre os Dados:
 	- Registrados no Departamento de Licenciamento do Estado de Washington (DOL)
 	- A fonte do conjunto de dados é compartilhada pelo governo dos EUA
 
+# Etapas de Tratamento e Visualização:
 
+- Obteção dos dados realizada no kaggle (https://www.kaggle.com/datasets/iottech/electric-vehicle-data-1997-2024-update-version)
+
+- ETL feito em alteryx
+
+![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/d7ad0504-9558-4c07-a0f7-969b8343054c)
+
+- Dashboard criado em PowerBi
+  
 ![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/6367550f-8bad-4c5e-bd09-dd503c64608f)
-
 
 # Metadados:
 
@@ -34,8 +42,4 @@ Base MSRP ($) -> (Preço sugerido pelo fabricante é um revendedor de preço bas
 
 Electric Utility -> As concessionárias de energia elétrica são responsáveis por fornecer a infraestrutura necessária para fornecer eletricidade aos proprietários de VEs, incluindo estações de carregamento, conexões de rede e redes de distribuição de eletricidade.
 
-# Etapas de Tratamento e Visualização:
 
-- Obteção dos dados realizada no kaggle (https://www.kaggle.com/datasets/iottech/electric-vehicle-data-1997-2024-update-version)
-- ETL feito em alteryx
-- Dashboard criado em PowerBi
