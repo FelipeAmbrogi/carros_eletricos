@@ -1,7 +1,6 @@
-# carros_eletricos
-Análise do Dados dos Veículos Elétricos a Bateria (BEVs) e os Veículos Elétricos Híbridos Plug-in (PHEVs) 
-
 # Sobre os Dados:
+
+Análise do Dados dos Veículos Elétricos a Bateria (BEVs) e os Veículos Elétricos Híbridos Plug-in (PHEVs) 
 
 # Geral:
 	- Dados dos Veículos Elétricos a Bateria (BEVs) e os Veículos Elétricos Híbridos Plug-in (PHEVs) 
@@ -10,7 +9,8 @@ Análise do Dados dos Veículos Elétricos a Bateria (BEVs) e os Veículos Elét
 
 # Etapas de Tratamento e Visualização:
 
-- Obteção dos dados realizada no kaggle (https://www.kaggle.com/datasets/iottech/electric-vehicle-data-1997-2024-update-version)
+- Obteção dos dados realizada no kaggle (https://www.kaggle.com/datasets/iottech/electric-vehicle-data-1997-2024-update-version),
+acesso em 14/07/2023.
 
 ![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/9fc6fb36-b871-4d9f-8a68-12db6c2161db)
 
@@ -23,6 +23,10 @@ Análise do Dados dos Veículos Elétricos a Bateria (BEVs) e os Veículos Elét
 ![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/0300179a-adfe-4ebc-9ce1-4b8f27f72101)
 
 # Metadados:
+
+- Tabela de metadados
+
+![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/bf656380-aa0f-4816-8e98-f646802b780f)
 
 algumas explicações de recursos importantes:
 
