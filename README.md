@@ -1,7 +1,7 @@
 # carros_eletricos
 Análise do Dados dos Veículos Elétricos a Bateria (BEVs) e os Veículos Elétricos Híbridos Plug-in (PHEVs) 
 
-Sobre os Dados:
+# Sobre os Dados:
 
 # Geral:
 	- Dados dos Veículos Elétricos a Bateria (BEVs) e os Veículos Elétricos Híbridos Plug-in (PHEVs) 
@@ -12,13 +12,15 @@ Sobre os Dados:
 
 - Obteção dos dados realizada no kaggle (https://www.kaggle.com/datasets/iottech/electric-vehicle-data-1997-2024-update-version)
 
+![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/9fc6fb36-b871-4d9f-8a68-12db6c2161db)
+
 - ETL feito em alteryx
 
-![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/c8d0eb84-2f21-4832-9b4b-6eba2d4f468f)
+![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/6d551e5c-b338-4fb4-802f-04e1e6bdd8d9)
 
 - Dashboard criado em PowerBi
   
-![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/6367550f-8bad-4c5e-bd09-dd503c64608f)
+![image](https://github.com/FelipeAmbrogi/carros_eletricos/assets/54153062/0300179a-adfe-4ebc-9ce1-4b8f27f72101)
 
 # Metadados:
 
